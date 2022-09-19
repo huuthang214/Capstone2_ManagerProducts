@@ -100,3 +100,7 @@ document.querySelector("#filter").addEventListener("change", (e) => {
 function filter() {
 
 }
+
+// filter, map, => new Array;
+// find, findIndex, tìm trong mảng => hứng = 1 biến;
+// forEach => duyệt mảng;
