@@ -1,1 +1,1 @@
-# Capstone2_ManagerProducts
+# Capstone2_ManagerProducts_Hữu Thắng & Quỳnh Hương
