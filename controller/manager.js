@@ -146,7 +146,7 @@ document.querySelector('.modal-footer').addEventListener('click', (e) => {
 
     if (elementType === 'update') {
         updateProduct(product, id)
-    } else if (elementType = 'add') {
+    } else if (elementType == 'add') {
         addProduct();
     }
 })

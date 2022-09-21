@@ -139,7 +139,7 @@
 }
 .img_left {
     float: left;
-    width: 25%;
+    width: 35%;
 }
 
 .img_left img {
@@ -148,7 +148,7 @@
 }
 .detail {
     float: left;
-    width: 75%;
+    width: 65%;
 }
 .detail p
 , .detail span{
